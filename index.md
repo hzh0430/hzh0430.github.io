@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
+## Welcome to GitHub Pages
 
-<body>
-    <h1>Hello World</h1>
-    <p>I'm hosted with GitHub Pages.</p>
-</body>
+You can use the [editor on GitHub](https://github.com/ipoppi/motong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-</html>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
